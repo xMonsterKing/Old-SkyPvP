@@ -1,0 +1,23 @@
+name: SkyPvP
+version: '${project.version}'
+main: net.pixelplays.skypvp.SkyPvP
+api-version: 1.17
+
+commands:
+  blocks:
+  broadcast:
+    aliases:
+      - bc
+  chatclear:
+    aliases:
+      - cc
+  coins:
+    aliases:
+      - tokens
+      - money
+      - münzen
+      - geld
+      - taler
+  feed:
+  setup:
+  spawn:
